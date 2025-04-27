@@ -46,12 +46,12 @@ namespace LibraryMVC.Data
                 entity.HasOne(b => b.Book)
                       .WithMany()
                       .HasForeignKey(b => b.BookId)
-                      .OnDelete(DeleteBehavior.Restrict);
+                      .OnDelete(DeleteBehavior.Cascade);
 
                 entity.HasOne(b => b.Reader)
                       .WithMany()
                       .HasForeignKey(b => b.ReaderId)
-                      .OnDelete(DeleteBehavior.Restrict);
+                      .OnDelete(DeleteBehavior.Cascade);
             });
 
             base.OnModelCreating(modelBuilder);

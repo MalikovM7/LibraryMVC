@@ -203,14 +203,17 @@ namespace LibraryMVC.Controllers
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int Id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var result = await _bookService.DeleteAsync(Id);
+            var result = await _bookService.DeleteAsync(id);
+
             if (!result)
             {
-                return NotFound();
+                TempData["ErrorMessage"] = "Book cannot be deleted. It may have active or historical borrow records.";
+                return RedirectToAction(nameof(Index));
             }
 
+            TempData["SuccessMessage"] = "Book deleted successfully.";
             return RedirectToAction(nameof(Index));
         }
 

@@ -56,6 +56,7 @@ namespace LibraryMVC
             builder.Services.AddFluentValidationAutoValidation(options => options.DisableDataAnnotationsValidation = true);
             builder.Services.AddValidatorsFromAssemblyContaining<BookValidator>();
             builder.Services.AddValidatorsFromAssemblyContaining<ReaderValidator>();
+            builder.Services.AddValidatorsFromAssemblyContaining<BorrowValidator>();
 
             // Add services 
             RegisterServices(builder.Services);

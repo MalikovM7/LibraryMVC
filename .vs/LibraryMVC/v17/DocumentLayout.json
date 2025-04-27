@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:models\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:services\\implementation\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\services\\implementation\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\fluentvalidation\\borrowvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:fluentvalidation\\borrowvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -89,14 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78774319-29E0-4D94-B0EF-7B7215D8D14B}|LibraryMVC.csproj|c:\\users\\vuqar\\desktop\\librarymvc\\fluentvalidation\\bookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,11 +150,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 212,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:33:21.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReaderService.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Interface\\IReaderService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IReaderService.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Interface\\IReaderService.cs",
+              "RelativeToolTip": "Services\\Interface\\IReaderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:55:09.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReaderService.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Implementation\\ReaderService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\ReaderService.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Implementation\\ReaderService.cs",
+              "RelativeToolTip": "Services\\Implementation\\ReaderService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:26:52.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\Reader.cs",
+              "RelativeDocumentMoniker": "Models\\Reader.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\Reader.cs",
+              "RelativeToolTip": "Models\\Reader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:49:05.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:39:48.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\Borrow.cs",
+              "RelativeDocumentMoniker": "Models\\Borrow.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\Borrow.cs",
+              "RelativeToolTip": "Models\\Borrow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:45:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:09:37.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAIwNkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:45:55.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -160,27 +264,27 @@
               "RelativeDocumentMoniker": "Services\\Implementation\\BookService.cs",
               "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Implementation\\BookService.cs",
               "RelativeToolTip": "Services\\Implementation\\BookService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAzAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T09:54:49.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BorrowService.cs",
-              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Implementation\\BorrowService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementation\\BorrowService.cs",
-              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Implementation\\BorrowService.cs",
-              "RelativeToolTip": "Services\\Implementation\\BorrowService.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAgwDMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T10:54:13.279Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAUwFIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:56:00.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "IBorrowService.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Interface\\IBorrowService.cs",
               "RelativeDocumentMoniker": "Services\\Interface\\IBorrowService.cs",
@@ -188,77 +292,23 @@
               "RelativeToolTip": "Services\\Interface\\IBorrowService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T10:48:43.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IReaderService.cs",
-              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Interface\\IReaderService.cs",
-              "RelativeDocumentMoniker": "Services\\Interface\\IReaderService.cs",
-              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Interface\\IReaderService.cs",
-              "RelativeToolTip": "Services\\Interface\\IReaderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:55:09.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReaderService.cs",
-              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Implementation\\ReaderService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementation\\ReaderService.cs",
-              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Implementation\\ReaderService.cs",
-              "RelativeToolTip": "Services\\Implementation\\ReaderService.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAkwDUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T11:26:52.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Reader.cs",
-              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\Reader.cs",
-              "RelativeDocumentMoniker": "Models\\Reader.cs",
-              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\Reader.cs",
-              "RelativeToolTip": "Models\\Reader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:49:05.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T11:39:48.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Borrow.cs",
-              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\Borrow.cs",
-              "RelativeDocumentMoniker": "Models\\Borrow.cs",
-              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\Borrow.cs",
-              "RelativeToolTip": "Models\\Borrow.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T10:45:13.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T10:48:43.86Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "BorrowService.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Implementation\\BorrowService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\BorrowService.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Implementation\\BorrowService.cs",
+              "RelativeToolTip": "Services\\Implementation\\BorrowService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:54:13.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Services\\Interface\\IBookService.cs",
               "RelativeDocumentMoniker": "Services\\Interface\\IBookService.cs",
@@ -266,12 +316,11 @@
               "RelativeToolTip": "Services\\Interface\\IBookService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T11:01:24.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:01:24.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Borrow\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Borrow\\Index.cshtml",
@@ -279,25 +328,11 @@
               "RelativeToolTip": "Views\\Borrow\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T11:06:16.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:06:16.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Controllers\\BookController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:45:55.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Borrow\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Borrow\\Create.cshtml",
@@ -305,12 +340,11 @@
               "RelativeToolTip": "Views\\Borrow\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T11:07:21.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:07:21.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "BorrowVM.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\ViewModels\\BorrowVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\BorrowVM.cs",
@@ -318,12 +352,11 @@
               "RelativeToolTip": "ViewModels\\BorrowVM.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T11:03:18.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:03:18.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "BorrowController.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Controllers\\BorrowController.cs",
               "RelativeDocumentMoniker": "Controllers\\BorrowController.cs",
@@ -331,12 +364,11 @@
               "RelativeToolTip": "Controllers\\BorrowController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAswCUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T11:00:22.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:00:22.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "BorrowValidator.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\FluentValidation\\BorrowValidator.cs",
               "RelativeDocumentMoniker": "FluentValidation\\BorrowValidator.cs",
@@ -344,12 +376,11 @@
               "RelativeToolTip": "FluentValidation\\BorrowValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T11:34:26.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:34:26.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Models\\Enums\\Status.cs",
               "RelativeDocumentMoniker": "Models\\Enums\\Status.cs",
@@ -357,12 +388,11 @@
               "RelativeToolTip": "Models\\Enums\\Status.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T11:54:46.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:54:46.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -370,12 +400,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T11:41:48.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:41:48.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -383,12 +412,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T11:39:57.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T11:39:57.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -396,12 +424,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T10:00:14.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T10:00:14.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Book\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
@@ -409,12 +436,11 @@
               "RelativeToolTip": "Views\\Book\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T10:04:44.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T10:04:44.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "BookVM.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\ViewModels\\BookVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\BookVM.cs",
@@ -422,12 +448,11 @@
               "RelativeToolTip": "ViewModels\\BookVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:48:59.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T09:48:59.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ReaderController.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Controllers\\ReaderController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReaderController.cs",
@@ -435,25 +460,11 @@
               "RelativeToolTip": "Controllers\\ReaderController.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAA5wBMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:12:23.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T09:12:23.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "Views\\Book\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T09:56:00.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ReaderValidator.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\FluentValidation\\ReaderValidator.cs",
               "RelativeDocumentMoniker": "FluentValidation\\ReaderValidator.cs",
@@ -461,25 +472,11 @@
               "RelativeToolTip": "FluentValidation\\ReaderValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:48:07.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T09:48:07.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAQwEcAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T10:09:37.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Book\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
@@ -491,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "BookValidator.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\FluentValidation\\BookValidator.cs",
               "RelativeDocumentMoniker": "FluentValidation\\BookValidator.cs",
@@ -499,12 +496,11 @@
               "RelativeToolTip": "FluentValidation\\BookValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T10:00:08.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T10:00:08.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Reader\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Reader\\Details.cshtml",
@@ -512,12 +508,11 @@
               "RelativeToolTip": "Views\\Reader\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T10:01:15.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T10:01:15.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Reader\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Reader\\Create.cshtml",
@@ -529,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Reader\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Reader\\Edit.cshtml",
@@ -537,12 +532,11 @@
               "RelativeToolTip": "Views\\Reader\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T10:01:50.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T10:01:50.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -554,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Book\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Edit.cshtml",
@@ -562,12 +556,11 @@
               "RelativeToolTip": "Views\\Book\\Edit.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAAAUwC8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T10:07:33.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T10:07:33.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\Views\\Reader\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Reader\\Index.cshtml",
@@ -575,12 +568,11 @@
               "RelativeToolTip": "Views\\Reader\\Index.cshtml",
               "ViewState": "AQIAADMAAAAAAAAAAAAAABEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T10:08:01.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T10:08:01.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ReaderVM.cs",
               "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\LibraryMVC\\ViewModels\\ReaderVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\ReaderVM.cs",
