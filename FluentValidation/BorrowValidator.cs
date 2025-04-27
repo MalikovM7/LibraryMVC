@@ -1,9 +1,9 @@
 ﻿using FluentValidation;
-using LibraryMVC.Models;
+using LibraryMVC.ViewModels;
 
 namespace LibraryMVC.FluentValidation
 {
-    public class BorrowValidator : AbstractValidator<Borrow>
+    public class BorrowValidator : AbstractValidator<BorrowVM>
     {
         public BorrowValidator()
         {
@@ -13,15 +13,14 @@ namespace LibraryMVC.FluentValidation
             RuleFor(x => x.ReaderId)
                 .GreaterThan(0).WithMessage("Oxuyucunun ID sin daxil edin.");
 
-            RuleFor(x => x.BorrowedDate)
-                .LessThanOrEqualTo(DateTime.Today).WithMessage("Icare tarixi gelecekde ola bilmez.");
+        
 
             RuleFor(x => x.ReturnDueDate)
                 .GreaterThan(DateTime.Today).WithMessage("Qaytarma tarixi kecmishde ola bilmez.");
 
-            RuleFor(x => x.ReturnedDate)
+            RuleFor(x => x.ReturnDueDate)
                 .Must((borrow, returnedDate) =>
-                    returnedDate == null || returnedDate >= borrow.BorrowedDate
+                    returnedDate == null || returnedDate >= borrow.BorrowDate
                 ).WithMessage("Qaytarma tarixi icare tarixinnen evvel ola bilmez.");
         }
     }

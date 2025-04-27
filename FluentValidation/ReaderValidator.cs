@@ -1,9 +1,9 @@
 ﻿using FluentValidation;
-using LibraryMVC.Models;
+using LibraryMVC.ViewModels;
 
 namespace LibraryMVC.FluentValidation
 {
-    public class ReaderValidator :AbstractValidator<Reader>
+    public class ReaderValidator :AbstractValidator<ReaderVM>
     {
         public ReaderValidator() {
 
@@ -11,8 +11,8 @@ namespace LibraryMVC.FluentValidation
                 .NotEmpty().WithMessage("Adivizi daxil edin")
                 .MaximumLength(50);
             RuleFor(x => x.LastName)
-            .NotEmpty().WithMessage("Soyadivizi daxil edin")
-            .MaximumLength(50);
+                .NotEmpty().WithMessage("Soyadivizi daxil edin")
+                .MaximumLength(50);
 
             RuleFor(x => x.BirthDate)
                 .LessThan(DateTime.Now).WithMessage("Dogum tarixi kecmishde olmalidi");

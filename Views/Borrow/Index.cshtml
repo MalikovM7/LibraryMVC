@@ -1,0 +1,42 @@
+﻿@model IEnumerable<LibraryMVC.ViewModels.BorrowVM>
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Currently Borrowed Books</h1>
+
+    <a asp-action="Create" class="btn btn-primary mb-4">Borrow New Book</a>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Book Title</th>
+                <th>Reader Name</th>
+                <th>Borrow Date</th>
+                <th>Return Due Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var borrow in Model)
+            {
+                <tr>
+                    <td>@borrow.BookTitle</td>
+                    <td>@borrow.ReaderName</td>
+                    <td>@borrow.BorrowDate.ToShortDateString()</td>
+                    <td>@borrow.ReturnDueDate.ToShortDateString()</td>
+                    <td>
+                        @if (!borrow.IsReturned)
+                        {
+                            <form asp-action="Return" asp-route-id="@borrow.Id" method="post" class="d-inline">
+                                <button type="submit" class="btn btn-success btn-sm">Mark as Returned</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <span class="text-success">Returned</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

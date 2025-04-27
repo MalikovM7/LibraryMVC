@@ -1,0 +1,32 @@
+﻿@model LibraryMVC.ViewModels.BookVM
+
+<div class="container mt-5">
+    <h1 class="text-center">Book Details</h1>
+
+    <div class="card mt-4">
+        <div class="card-body">
+            <h4 class="card-title">Title</h4>
+            <p class="card-text">@Model.Title</p>
+
+            <h4 class="card-title mt-4">Author</h4>
+            <p class="card-text">@Model.Author</p>
+
+            <h4 class="card-title mt-4">Genre</h4>
+            <p class="card-text">@Model.Genre</p>
+
+            <h4 class="card-title mt-4">Publish Date</h4>
+            <p class="card-text">@Model.PublishDate.ToString("MMMM dd, yyyy")</p>
+
+            <h4 class="card-title mt-4">Page Count</h4>
+            <p class="card-text">@Model.PageCount</p>
+
+            <h4 class="card-title mt-4">Status</h4>
+            <p class="card-text">@Model.Status</p>
+        </div>
+    </div>
+
+    <div class="mt-4 text-center">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-primary">Back to List</a>
+    </div>
+</div>

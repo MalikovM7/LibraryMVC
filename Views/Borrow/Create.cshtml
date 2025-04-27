@@ -1,0 +1,43 @@
+﻿@model LibraryMVC.ViewModels.BorrowVM
+
+<div class="container mt-5">
+    <h1 class="text-center">Borrow a Book</h1>
+
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-warning alert-dismissible fade show mt-3" role="alert">
+            @TempData["ErrorMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    <form asp-action="Create" method="post" class="mt-4">
+        <div class="form-group">
+            <label asp-for="BookId"></label>
+            <select asp-for="BookId" asp-items="ViewBag.Books" class="form-control"></select>
+            <span asp-validation-for="BookId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <label asp-for="ReaderId"></label>
+            <select asp-for="ReaderId" asp-items="ViewBag.Readers" class="form-control"></select>
+            <span asp-validation-for="ReaderId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <label asp-for="BorrowDate"></label>
+            <input asp-for="BorrowDate" class="form-control" type="date" />
+            <span asp-validation-for="BorrowDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <label asp-for="ReturnDueDate"></label>
+            <input asp-for="ReturnDueDate" class="form-control" type="date" />
+            <span asp-validation-for="ReturnDueDate" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-4">Borrow</button>
+        <a asp-action="Index" class="btn btn-outline-danger mt-4 ms-2">Cancel</a>
+    </form>
+</div>

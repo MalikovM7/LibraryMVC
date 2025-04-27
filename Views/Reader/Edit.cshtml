@@ -1,0 +1,42 @@
+﻿@model LibraryMVC.ViewModels.ReaderVM
+
+<div class="container mt-5">
+    <h1 class="text-center">Edit Reader</h1>
+
+    <form asp-action="Edit" method="post" class="mt-4">
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group">
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <label asp-for="BirthDate"></label>
+            <input asp-for="BirthDate" class="form-control" type="date" />
+            <span asp-validation-for="BirthDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <label asp-for="RegistrationDate"></label>
+            <input asp-for="RegistrationDate" class="form-control" type="date" />
+            <span asp-validation-for="RegistrationDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <label asp-for="Status"></label>
+            <select asp-for="Status" asp-items="Html.GetEnumSelectList<LibraryMVC.Models.Enums.Status>()" class="form-control"></select>
+            <span asp-validation-for="Status" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-3">Save Changes</button>
+        <a asp-action="Index" class="btn btn-outline-danger mt-3">Cancel</a>
+    </form>
+</div>

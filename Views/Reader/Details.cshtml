@@ -1,0 +1,29 @@
+﻿@model LibraryMVC.ViewModels.ReaderVM
+
+<div class="container mt-5">
+    <h1 class="text-center">Reader Details</h1>
+
+    <div class="card mt-4">
+        <div class="card-body">
+            <h4 class="card-title">First Name</h4>
+            <p class="card-text">@Model.FirstName</p>
+
+            <h4 class="card-title mt-4">Last Name</h4>
+            <p class="card-text">@Model.LastName</p>
+
+            <h4 class="card-title mt-4">Birth Date</h4>
+            <p class="card-text">@Model.BirthDate.ToString("MMMM dd, yyyy")</p>
+
+            <h4 class="card-title mt-4">Registration Date</h4>
+            <p class="card-text">@Model.RegistrationDate.ToString("MMMM dd, yyyy")</p>
+
+            <h4 class="card-title mt-4">Status</h4>
+            <p class="card-text">@Model.Status</p>
+        </div>
+    </div>
+
+    <div class="mt-4 text-center">
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-primary">Back to List</a>
+    </div>
+</div>
